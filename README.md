@@ -1,3 +1,14 @@
-# 
+# Applications of Machine Learning Across Various Domains
 
-![image](https://github.com/user-attachments/assets/4008cee7-d564-46ff-beed-2b4d9882b339)
+**Overview**: Machine learning (ML) is transforming numerous industries by automating processes, predicting outcomes, and improving decision-making. This presentation explores three applications of ML in healthcare, finance, and marketing.
+
+
+
+
+
+# Predictive Diagnostics in Healthcare
+
+
+
+
+
